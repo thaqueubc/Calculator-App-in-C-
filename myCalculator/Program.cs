@@ -38,7 +38,7 @@ namespace myCalculator
 
                 string option = Console.ReadLine();
 
-                    while (option != "a" || option != "s" || option != "m" || option != "d")
+                    while (!option.Equals("a") && !option.Equals("s") && !option.Equals("m") && !option.Equals("d"))
                     {
                         Console.WriteLine("Please choose a valid option");
                         option = Console.ReadLine();

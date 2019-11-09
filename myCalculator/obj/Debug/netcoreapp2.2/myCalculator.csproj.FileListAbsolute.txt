@@ -20,3 +20,14 @@ H:\Personal Folders\C#\myCalculator\myCalculator\obj\Debug\netcoreapp2.2\myCalcu
 H:\Personal Folders\C#\myCalculator\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.AssemblyInfo.cs
 H:\Personal Folders\C#\myCalculator\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.dll
 H:\Personal Folders\C#\myCalculator\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.pdb
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp2.2\myCalculator.deps.json
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp2.2\myCalculator.runtimeconfig.json
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp2.2\myCalculator.runtimeconfig.dev.json
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp2.2\myCalculator.dll
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp2.2\myCalculator.pdb
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.csprojAssemblyReference.cache
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.csproj.CoreCompileInputs.cache
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.AssemblyInfoInputs.cache
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.AssemblyInfo.cs
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.dll
+D:\Tasnuva\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp2.2\myCalculator.pdb

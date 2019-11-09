@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Personal Folders\\C#\\myCalculator\\myCalculator\\myCalculator.csproj",
+      "projectUniqueName": "D:\\Tasnuva\\Calculator-App-in-C-sharp\\myCalculator\\myCalculator.csproj",
       "projectName": "myCalculator",
-      "projectPath": "H:\\Personal Folders\\C#\\myCalculator\\myCalculator\\myCalculator.csproj",
+      "projectPath": "D:\\Tasnuva\\Calculator-App-in-C-sharp\\myCalculator\\myCalculator.csproj",
       "packagesPath": "C:\\Users\\A01174842\\.nuget\\packages\\",
-      "outputPath": "H:\\Personal Folders\\C#\\myCalculator\\myCalculator\\obj\\",
+      "outputPath": "D:\\Tasnuva\\Calculator-App-in-C-sharp\\myCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
