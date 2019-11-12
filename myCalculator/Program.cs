@@ -8,11 +8,12 @@ namespace myCalculator
         {
             // Declare variables and then initialize to zero.
             bool close = false;
+            const double EPSILON = 0.001;
 
             while (!close)
             {
-                double num1 = 0;
-                double num2 = 0;
+                double num1 = 0.0;
+                double num2 = 0.0;
 
                 // Display title as the C# console calculator app.
                 Console.WriteLine("Console Calculator in C#\r");
@@ -38,17 +39,11 @@ namespace myCalculator
 
                 string option = Console.ReadLine();
 
-                    while (!option.Equals("a") && !option.Equals("s") && !option.Equals("m") && !option.Equals("d"))
-                    {
-                        Console.WriteLine("Please choose a valid option");
-                        option = Console.ReadLine();
-
-                        if (option == "a" || option == "s" || option == "m" || option == "d")
-                        {
-                            break;
-                        }
-
-                    }
+                while (!option.Equals("a") && !option.Equals("s") && !option.Equals("m") && !option.Equals("d"))
+                {
+                    Console.WriteLine("Please choose a valid option");
+                    option = Console.ReadLine();
+                }
 
                 // Use a switch statement to do the math.
                 switch (option)
@@ -63,18 +58,11 @@ namespace myCalculator
                         Console.WriteLine($"Your result: {num1} * {num2} = " + (num1 * num2));
                         break;
                     case "d":
-                        while (num2 == 0)
+                        //Console.WriteLine(Math.Abs(num2 - 0) < EPSILON);
+                        while (Math.Abs(num2-0.0)<EPSILON)
                         {
-                            try
-                            {
-                                double z = num1 / num2;
-                            }
-                            catch (Exception e)
-                            {
-                                Console.WriteLine(e.Message);
-                                Console.WriteLine("Enter a non-zero divisor: ");
-                                num2 = Convert.ToInt32(Console.ReadLine());
-                            }
+                            Console.WriteLine("Enter a non-zero divisor: ");
+                            num2 = Convert.ToDouble(Console.ReadLine());
                         }
                         Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                         break;
