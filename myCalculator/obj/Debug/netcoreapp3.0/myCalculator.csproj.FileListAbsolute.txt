@@ -1,0 +1,11 @@
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp3.0\myCalculator.exe
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp3.0\myCalculator.deps.json
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp3.0\myCalculator.runtimeconfig.json
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp3.0\myCalculator.runtimeconfig.dev.json
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp3.0\myCalculator.dll
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\bin\Debug\netcoreapp3.0\myCalculator.pdb
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp3.0\myCalculator.csprojAssemblyReference.cache
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp3.0\myCalculator.AssemblyInfoInputs.cache
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp3.0\myCalculator.AssemblyInfo.cs
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp3.0\myCalculator.dll
+C:\Users\Tasnuva Haque\Desktop\SSD_Projects\Calculator-App-in-C-sharp\myCalculator\obj\Debug\netcoreapp3.0\myCalculator.pdb
